@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	int n;
-	cout << "--Selamat datang di program sederhana untuk memnentukan nilai modus terbesar--";
+	cout << "--Selamat datang di program sederhana untuk menentukan nilai modus terbesar--" <<endl;
 	cout << "Masukkan berapa banyak angka atau data yang akan kamu tentukan nilai modusnya : ";
 	cin >> n;
 	cout << endl;
